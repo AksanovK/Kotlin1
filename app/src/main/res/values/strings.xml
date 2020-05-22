@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="TextView">Введите пароль:</string>
+    <string name="button">Войти</string>
+    <string name="textView2">Введите адрес электронной почты:</string>
+    <string name="textViewMail">TextViewMail</string>
+    <string name="textViewName">TextViewName</string>
+    <string name="textViewFamily">TextViewFamily</string>
+    <string name="aksanovkamil_gmail_com">aksanovkamil@gmail.com</string>
+    <string name="Kamil">Камиль</string>
+    <string name="Aksanov">Аксанов</string>
+    <string name="cancel">Выйти</string>
+    <string name="itisonelove_mail_ru">itisonelove@mail.ru</string>
+    <string name="Alex">Александр</string>
+    <string name="Pushkin">Пушкин</string>
+</resources>
